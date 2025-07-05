@@ -25,18 +25,6 @@ A simple and classic **Snake Game built using Java Swing** — customized with g
 - Java JDK 8 or above
 - Terminal or IDE (VS Code, IntelliJ, etc.)
 
-### 📂 Project Structure
-
-Java-Snake-Game/
-├── src/
-│ ├── com/aishwarya/
-│ │ ├── Snake.java
-│ │ └── Board.java
-│ └── resources/
-│ ├── apple.png
-│ ├── dot.png
-│ └── head.png
-└── README.md
 
 ### ▶️ Run via Terminal
 
@@ -50,7 +38,8 @@ java com.aishwarya.Snake
 <img src="snake.png" width="500">
 
 📄 License
-This project is based on Jan Bodnar's Snake Game Tutorial and is licensed under the BSD 2-Clause License.
+    
+  This project is based on Jan Bodnar's Snake Game Tutorial and is licensed under the BSD 2-Clause License.
 
-© 2020 Jan Bodnar
-Modified and extended by Aishwarya Kailas
+  © 2020 Jan Bodnar
+  Modified and extended by Aishwarya Kailas
