@@ -34,9 +34,6 @@ javac com/aishwarya/*.java
 java com.aishwarya.Snake
 ```
 
-📸 Screenshots
-<img src="snake.png" width="500">
-
 📄 License
     
   This project is based on Jan Bodnar's Snake Game Tutorial and is licensed under the BSD 2-Clause License.
